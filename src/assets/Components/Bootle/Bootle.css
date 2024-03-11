@@ -1,0 +1,9 @@
+.bootle-container{
+    border: 2px solid steelblue;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+.bootle-container img{
+    width: 300px;
+}
